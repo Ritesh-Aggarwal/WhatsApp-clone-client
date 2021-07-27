@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WhatsApp-clone-client/static/css/main.ee384bf0.chunk.css",
+    "main.js": "/WhatsApp-clone-client/static/js/main.7b0c6e56.chunk.js",
+    "main.js.map": "/WhatsApp-clone-client/static/js/main.7b0c6e56.chunk.js.map",
+    "runtime-main.js": "/WhatsApp-clone-client/static/js/runtime-main.0ed85e56.js",
+    "runtime-main.js.map": "/WhatsApp-clone-client/static/js/runtime-main.0ed85e56.js.map",
+    "static/js/2.a00231da.chunk.js": "/WhatsApp-clone-client/static/js/2.a00231da.chunk.js",
+    "static/js/2.a00231da.chunk.js.map": "/WhatsApp-clone-client/static/js/2.a00231da.chunk.js.map",
+    "index.html": "/WhatsApp-clone-client/index.html",
+    "static/css/main.ee384bf0.chunk.css.map": "/WhatsApp-clone-client/static/css/main.ee384bf0.chunk.css.map",
+    "static/js/2.a00231da.chunk.js.LICENSE.txt": "/WhatsApp-clone-client/static/js/2.a00231da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ed85e56.js",
+    "static/js/2.a00231da.chunk.js",
+    "static/css/main.ee384bf0.chunk.css",
+    "static/js/main.7b0c6e56.chunk.js"
+  ]
+}
