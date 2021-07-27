@@ -11,7 +11,8 @@ export function SocketProvider({ id, children }) {
   const [socket, setSocket] = useState();
 
   useEffect(() => {
-    const url = window.location.href || "http://localhost:5000";
+    // const url = "http://localhost:5000";
+    const url = "https://limitless-escarpment-52108.herokuapp.com/";
 
     const newSocket = io(url, {
       transports: ["websocket", "polling", "flashsocket"],
